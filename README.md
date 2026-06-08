@@ -1,4 +1,4 @@
-# 🎬 Bilibili Transcript MCP Server
+# 🎬 （More than）Bilibili Transcript MCP Server
 
 <p align="center">
   <b>一键提取 Bilibili 视频英文原声文本并获取结构化笔记的 MCP 工具</b><br>
