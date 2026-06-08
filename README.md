@@ -1,7 +1,7 @@
 # 🎬 Bilibili Transcript MCP Server
 
 <p align="center">
-  <b>一键提取 Bilibili 视频英文原声文本的 MCP 工具</b><br>
+  <b>一键提取 Bilibili 视频英文原声文本并获取结构化笔记的 MCP 工具</b><br>
   <b>Extract English transcript from Bilibili videos via MCP</b>
 </p>
 
